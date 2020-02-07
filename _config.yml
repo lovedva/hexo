@@ -102,8 +102,8 @@ theme: Wikitten
 deploy:
   type: 'git'
   repo:
-    coding: git@git.dev.tencent.com:Tiger-Dog/Tiger-Dog.coding.me.git
-    github: https://github.com/Tiger-Dog/tiger-dog.github.io.git
+    # coding: git@e.coding.net:lovedva/lovedva.coding.me.git
+    github: git@github.com:lovedva/lovedva.github.io.git
   branch: master
 
 
